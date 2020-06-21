@@ -1,0 +1,1 @@
+open browser and enter http://localhost:8080/swagger-ui.html
